@@ -1,0 +1,10 @@
+
+{
+  "jd":"/var/atlassian/application-data/jira/export",
+  "ja":"/var/atlassian/application-data/jira/data/attachments",
+  "cb":"/var/atlassian/application-data/confluence/backups",
+  "serverip":"192.168.39.244",
+  "serverport":2124,
+  "user":"user",
+  "password":"12345"
+}
